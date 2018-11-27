@@ -12,5 +12,4 @@ of just pushing to dev.
 
 ## This Week's Plan
 
-> Fix courseform bug that doesn't automatically assign instructors as supervisors
-to the courses they create.
+> Fix Login Form bug where autofill is not working correctly.

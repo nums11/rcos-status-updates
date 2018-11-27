@@ -10,5 +10,5 @@ not input a department name of length greater than 4.
 
 ## This Week's Plan
 
-> Fix courseform bug that doesn't automatically assign instructors as supervisors
-to the courses they create.
+> Implement error message for instructors trying to add to supervisors that
+don't exist when creating new courses.
